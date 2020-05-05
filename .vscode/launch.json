@@ -5,15 +5,15 @@
             "type": "node",
             "name": "Launch TypeScript",
             "preLaunchTask": "Compile TypeScript",
-            "cwd": "${workspaceFolder}/ProjectName",
+            "cwd": "${workspaceFolder}/NatureRemoController",
             "program": "${file}",
             "outFiles": [
-                "${workspaceFolder}/ProjectName/hello-world/**/*.js"
+                "${workspaceFolder}/NatureRemoController/hello-world/**/*.js"
             ],
             "request": "attach",
             "address": "localhost",
             "port": 3000,
-            "localRoot": "${workspaceRoot}/ProjectName/hello-world",
+            "localRoot": "${workspaceRoot}/NatureRemoController/hello-world",
             "remoteRoot": "/var/task",
             "protocol": "inspector",
             "stopOnEntry": false
