@@ -115,8 +115,8 @@ NatureRemoController/dist
 NatureRemoController/nature-remo-action/app.js
 NatureRemoController/nature-remo-action/app.js.map
 NatureRemoController/nature-remo-action/package.json
-NatureRemoController/hello-world/.npmignore
-NatureRemoController/hello-world/app.js
-NatureRemoController/hello-world/app.js.map
-NatureRemoController/hello-world/package.json
-NatureRemoController/hello-world/tests/unit/test-handler.js
+NatureRemoController/nature-remo-action/.npmignore
+NatureRemoController/nature-remo-action/app.js
+NatureRemoController/nature-remo-action/app.js.map
+NatureRemoController/nature-remo-action/package.json
+NatureRemoController/nature-remo-action/tests/unit/test-handler.js
