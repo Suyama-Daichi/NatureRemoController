@@ -112,3 +112,11 @@ NatureRemoController/.aws-sam
 NatureRemoController/dist
 
 # End of https://www.gitignore.io/api/node
+NatureRemoController/nature-remo-action/app.js
+NatureRemoController/nature-remo-action/app.js.map
+NatureRemoController/nature-remo-action/package.json
+NatureRemoController/hello-world/.npmignore
+NatureRemoController/hello-world/app.js
+NatureRemoController/hello-world/app.js.map
+NatureRemoController/hello-world/package.json
+NatureRemoController/hello-world/tests/unit/test-handler.js

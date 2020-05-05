@@ -8,12 +8,12 @@
             "cwd": "${workspaceFolder}/NatureRemoController",
             "program": "${file}",
             "outFiles": [
-                "${workspaceFolder}/NatureRemoController/hello-world/**/*.js"
+                "${workspaceFolder}/NatureRemoController/nature-remo-action/**/*.js"
             ],
             "request": "attach",
             "address": "localhost",
             "port": 3000,
-            "localRoot": "${workspaceRoot}/NatureRemoController/hello-world",
+            "localRoot": "${workspaceRoot}/NatureRemoController/nature-remo-action",
             "remoteRoot": "/var/task",
             "protocol": "inspector",
             "stopOnEntry": false
